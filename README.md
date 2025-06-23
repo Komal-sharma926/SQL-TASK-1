@@ -1,1 +1,1 @@
-# SQL-TASK-1
+create database college # SQL-TASK-1
